@@ -1,8 +1,6 @@
 # Hello_World
 
-## Project Title
-
-Practice Repository
+## Project Title: Practice Repository
 
 **Hello!**
 
