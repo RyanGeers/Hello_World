@@ -5,7 +5,7 @@
 **Hello!**
 
 My name is Ryan Geers and I am currently an undergraduate student at the University of Iowa,
-majoring in Business Analytics with a minor in Computer Science.
+majoring in **Business Analytics** with a minor in **Computer Science**.
 
 ### Description
 
