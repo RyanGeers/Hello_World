@@ -14,6 +14,10 @@ majoring in **Business Analytics** with a minor in **Computer Science**.
 
 ### How to Run Program
 
+Hello_World/
+|__
+    |-- README.md
+
 ### Files Used
 
 No additional files were used in this project.
